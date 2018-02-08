@@ -17,7 +17,7 @@
     "jest-expo": "^22.0.0",
     "json-loader": "^0.5.7",
     "node-sass": "^4.7.2",
-    "react-native-scripts": "1.7.0",
+    "react-native-scripts": "^1.7.0",
     "react-test-renderer": "16.0.0-beta.5",
     "react-transform-catch-errors": "^1.0.2",
     "react-transform-hmr": "^1.0.4",
